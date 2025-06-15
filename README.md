@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esmail keyhan</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
-<img src="https://www.psd-dude.com/tutorials/matrix-effect-animation-gif-photoshop-tutorial/matrix-effect-with-code-rain-animation-photoshop-tutorial.gif" width="250px" height="250px" alt="Esmailkeyhan_Developer" align="right">
+<img src="https://www.psd-dude.com/tutorials/matrix-effect-animation-gif-photoshop-tutorial/matrix-effect-with-code-rain-animation-photoshop-tutorial.gif" width="400px" height="300px" alt="Esmailkeyhan_Developer" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmailkeyhan24&label=Profile%20views&color=0e75b6&style=flat" alt="esmailkeyhan24" /> </p>
 
